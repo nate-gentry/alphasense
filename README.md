@@ -22,6 +22,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+![Alt text](screenshots/Screen ShotEnrtySreen.png)
+![Alt text](screenshots/Screen Shot 2021-03-09 at 8.55.08 PM.png)
+![Alt text](screenshots/Screen Shot 2021-03-09 at 8.54.38 PM.png)
+![Alt text](screenshots/Screen Shot 2021-03-09 at 8.54.38 PM.png)
+![Alt text](screenshots/Screen Shot 2021-03-09 at 5.43.11 PM.png)
+![Alt text](screenshots/Screen Shot 2021-03-09 at 5.43.22 PM.png)
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
